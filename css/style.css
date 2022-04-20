@@ -85,18 +85,13 @@ footer {
         "E2 E2 E2 E3 E3 E4 E4 E4"
 }
 
-.historiaTexto {
-    grid-area: historiaTexto;
-    display: flex;
-    font-size: 30px;
-    text-align: center;
-    justify-content: center;
-}
+
 
 .imagen1 {
     grid-area: E1;
-    background-image: url(../images/edificio1.png);
+    background-image: url(../images/Kobac.jpg);
     background-position: center;
+    width: 100%;
 }
 
 .imagen2 {
